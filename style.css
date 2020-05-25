@@ -1,0 +1,61 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background: url("http://38.media.tumblr.com/d52faaa4e304f1efd543084128530914/tumblr_mqox3sevH81relaado1_500.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 40px;
+  text-shadow: 2px 2px 8px #1bb0b3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+  background-color: #c6e3c5;
+}
+
+.jumbotron{
+  margin-top: 20px;
+  padding-bottom: 80px;
+  font-family: 'Montserrat', sans-serif;
+  box-shadow: 5px 5px 5px #f78e25;
+}
+
+.card {
+  margin-top: 20px;
+  box-shadow: 20px 20px 50px 10px #3b9bc4 inset; 
+}
+
+.lead {
+  font-size: 35px;
+  padding-top: 10px;
+}
+
+.display-4 {
+  color: #9c9e23;
+  font-weight: bold;
+  text-shadow: 2px 2px 8px black;
+}
+
+.card-header {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+.blockquote {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
